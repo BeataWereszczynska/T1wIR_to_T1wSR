@@ -15,8 +15,15 @@ I am aware that the script would be more useful if it calculated IR images from 
 3. Sample results in **Theoretical_MRI** folder.
 4. Graphical abstract **graph_abst.png**.
 
-## Reference: Collection of the sample data
+## References 
+
+**1. Collection of the sample data:**
+
 Beata Wereszczyńska, ***Alcohol-fixed specimens for high-contrast post-mortem MRI***, Forensic Imaging, Volume 25, 2021, 200449, ISSN 2666-2256, https://doi.org/10.1016/j.fri.2021.200449. (https://www.sciencedirect.com/science/article/pii/S2666225621000208)
+
+**2. The code:**
+
+Beata Wereszczyńska, ***TI_TE_wish*** (https://github.com/BeataWereszczynska/TI_TE_wish)
 
 ## License
 The software is licensed under the **MIT license**. The non-software content of this project is licensed under the **Creative Commons Attribution 4.0 International license**. See the LICENSE file for license rights and limitations.
