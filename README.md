@@ -4,7 +4,7 @@ Calculating T<sub>1</sub>-weighted (saturation recovery - SR) MRI images for arb
 The script can also be used for calculating T<sub>1</sub> and M<sub>0</sub> maps without calculating theoretical images.
 
 
-I am aware that the script would be more useful if it calculated IR images from SR data as it would allow to save time during the data acquisition. I will gladly create such version when sample SR data are provided.
+I am aware that the script would be more useful if it calculated IR images from SR data as it would allow to save time during the data acquisition. I will gladly create such version when sample SR data is provided.
 
 
 ![Graphical abstract](graph_abst.png)
