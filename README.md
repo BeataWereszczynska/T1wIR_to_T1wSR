@@ -7,13 +7,13 @@ The script can also be used for calculating T<sub>1</sub> and M<sub>0</sub> maps
 I am aware that the script would be more useful if it calculated IR images from SR data as it would allow to save time during the data acquisition. I will gladly create such version when sample SR data is provided.
 
 
-![Graphical abstract](graph_abst.png)
+![Graphical abstract](graph_abstr.png)
 
 ## The repository contains:
 1. Python script **T1wIR_to_T1wSR.py**.
 2. Sample FID data in **sems_20190407_07.fid** folder.
 3. Sample results in **Theoretical_MRI** folder.
-4. Graphical abstract **graph_abst.png**.
+4. Graphical abstract **graph_abstr.png**.
 
 ## References 
 
