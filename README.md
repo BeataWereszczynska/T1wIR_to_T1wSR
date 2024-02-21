@@ -9,7 +9,7 @@ I am aware that the script would be more useful if it calculated IR images from 
 
 ![Graphical abstract](graph_abstr.png)
 
-The user provides the data folder location and a list of desired TR values. If the list is empty, only the parametric maps will be calculated. The script automatically imports the data with all the parameters needed and performs computations. The user can also change the value of glob_var parameter to save the maps and/or the images in global python variable for further use (instead of just saving the image files).
+The user provides the data folder location and a list of desired TR values. If the list is empty, only the parametric maps are calculated. The script automatically imports the data with all the parameters needed and performs computations. The user can change the value of glob_var parameter to save the maps and/or the images in global Python variable for further use (instead of just saving the image files).
 
 ## The repository contains:
 1. Python script **T1wIR_to_T1wSR.py**.
