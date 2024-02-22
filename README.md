@@ -1,5 +1,5 @@
 # T1wIR_to_T1wSR
-Calculating T<sub>1</sub>-weighted saturation recovery (SR) MRI images for arbitrary values of repetition time (TR) from a set of T<sub>1</sub>-weighted inversion recovery (IR) experimental MRI images. Works with Agilent .fid data.
+Calculating T<sub>1</sub>-weighted saturation recovery (SR) MRI images for arbitrary values of repetition time (TR) from a set of T<sub>1</sub>-weighted inversion recovery (IR) MRI images. Works with Agilent .fid data.
 
 The script can also be used for calculating T<sub>1</sub> and M<sub>0</sub> maps without calculating theoretical images.
 
