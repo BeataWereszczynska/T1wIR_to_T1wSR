@@ -34,6 +34,8 @@ The software is licensed under the **MIT license**. The non-software content of 
 
 **TI_TE_wish** - Calculating theoretical T<sub>1</sub>-weighted MRI images with arbitrary value of inversion time (TI) based on previously acquired spin echo multi-slice experiment with inversion recovery (SEMS-IR) data. Calculating theoretical T<sub>2</sub>-weighted MRI images with arbitrary value of echo time (TE) based on previously acquired multi-echo multi-slice (MEMS) data. The script can also be used for calculating T<sub>1</sub>, T<sub>2</sub> and M<sub>0</sub> maps without calculating theoretical images. Data import suitable for Agilent FID files, (https://github.com/BeataWereszczynska/TI_TE_wish).
 
+**TIandTE_wish** - Calculating theoretical MRI images with both inversion time (TI; T<sub>1</sub>-weighting) and echo time (TE; T<sub>2</sub>-weighting) of choice, from separate T<sub>1</sub>-weighted and T<sub>2</sub>-weighted sets of images. This functionality can be used to visualise how inversion recovery images would look like if TE<sub>min</sub> could be shorter or how the images' contrast will change after TE increase (e.g. due to larger image matrix). Works with Agilent SEMS (with IR) and MEMS .fid data acquired for the same slices and matrice size, (https://github.com/BeataWereszczynska/TIandTE_wish).
+
 **MRI_k-space-derived_details_edges** - k-space based details/edges detection in MRI images with optional k-space based denoising and detail control
 (data import suitable for Agilent FID files, three binarization methods to choose from), https://doi.org/10.5281/zenodo.7388435 (https://github.com/BeataWereszczynska/MRI_k-space-derived_details_edges).
 
